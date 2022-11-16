@@ -7,14 +7,6 @@
 
 < td>Horário</td>
 
-
-
-<table>
-
-<tr>
-
-< td>Horário</td>
-
 < td>Segunda</td>
 
 <tbody>
@@ -45,17 +37,59 @@
 
 </tr>
 
-<td>9h40</td>
+<td>9h35</td>
 
-<td></td>
+<td>Intervalo</td>
 
 </tr>
 
 <tr>
 
-<td></td>
+<td>9h55</td>
 
-<td>.</td>
+<td>Filosofia</td>
+
+</tr>
+
+<tr>
+
+<td>10h45</td>
+
+<td>Biologia</td>
+
+</tr>
+
+<tr>
+
+<td>11h30</td>
+
+<td>Portugues</td>
+
+
+
+<table>
+
+<tr>
+
+< td>Horário</td>
+
+< td>Terça</td>
+
+</tr>
+
+<tr>
+
+<td>7h10</td>
+
+<td>Fisica</td>
+
+</tr>
+
+<tr>
+
+<td>8h00</td>
+
+<td>Geografia</td>
 
 </tr>
 
@@ -63,18 +97,53 @@
 
 <td>8h50</td>
 
-<td>Biologia</td>
+<td>Ed.Financeira</td>
+
+</tr>
+
+<tr>
+
+<td>9h35</td>
+
+<td>Intervalo</td>
+
+</tr>
+
+<tr>
+
+<td>9h55</td>
+
+<td>Artes</td>
+
+</tr>
+
+<tr>
+
+<td>10h45</td>
+
+<td>Ed.Fisica</td>
+
+</tr>
+
+<tr>
+
+<td>11h30</td>
+
+<td>Quimica</td>
 
 
 
+<table>
 
+<tr>
 
-
-
-
-< td>Terça</td>
+< td>Horário</td>
 
 < td>Quarta</td>
+
+
+
+
 
 < td>Quinta</td>
 
