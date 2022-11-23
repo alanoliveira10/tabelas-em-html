@@ -1,6 +1,6 @@
 # tabelas-em-html
   
-<tbody>
+<table>
   
 <tr>
 
